@@ -34,3 +34,5 @@ export class PaymentPage {
     this.navCtrl.setRoot('OrderConfirmationPage', {pedido: this.pedido});
   }
 }
+
+//Confirmação de pagamento
